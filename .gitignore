@@ -4,7 +4,7 @@ roadapikey.txt
 __pycache__/
 *.py[cod]
 *$py.class
-
+mysql.json
 # C extensions
 *.so
 
